@@ -1,0 +1,5 @@
+*.pyc
+*.dev
+static/
+media/
+docker-compose.yml
